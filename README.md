@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+# 25174600007_Bui_Ngoc_Xuan_bai_tap
+Bài tập cá nhân chương 3
+>>>>>>> d1c3b604f55bf3ddcaa519d97e449f0adfa01665
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer efficitur, eros at
 lacinia suscipit, magna turpis aliquam est, sit amet aliquam quam libero id mi. Ut vel
 placerat risus. Sed tempor in ex vitae sodales. Donec et tempor orci. In pharetra
